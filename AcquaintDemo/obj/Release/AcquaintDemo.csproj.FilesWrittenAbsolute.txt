@@ -1,0 +1,5 @@
+/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/bin/Release/AcquaintDemo.dll
+/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/obj/Release/AcquaintDemo.dll
+/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/bin/Release/nunit.framework.dll
+/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/bin/Release/Xamarin.UITest.dll
