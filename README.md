@@ -1,12 +1,12 @@
 # AcquaintDemo
 
-This demo properly illustrates how you get started with Xamarin Test Cloud.
+This demo properly illustrates how to get started with Xamarin Test Cloud.
+I have included test code samples and a fully-working test script.
 
 
 #Authors
 
 June Cho
-
 Microsoft Technical Solutions Professional
 
 
