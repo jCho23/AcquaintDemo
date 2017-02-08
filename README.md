@@ -7,7 +7,7 @@ I have included test code samples and a fully-working test script.
 #Authors
 
 **June Cho**
-*Microsoft Technical Solutions Professional*
+''*Microsoft Technical Solutions Professional*''
 
 
 #License
