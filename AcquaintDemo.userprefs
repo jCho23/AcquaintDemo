@@ -3,7 +3,7 @@
     <Files>
       <File FileName="AcquaintDemo/AppInitializer.cs" Line="32" Column="5" />
       <File FileName="AcquaintDemo/packages.config" Line="1" Column="1" />
-      <File FileName="AcquaintDemo/Tests.cs" Line="49" Column="67" />
+      <File FileName="AcquaintDemo/Tests.cs" Line="63" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,5 +11,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.AcquaintDemo PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
