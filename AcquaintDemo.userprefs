@@ -3,8 +3,25 @@
     <Files>
       <File FileName="AcquaintDemo/AppInitializer.cs" Line="32" Column="5" />
       <File FileName="AcquaintDemo/packages.config" Line="1" Column="1" />
-      <File FileName="AcquaintDemo/Tests.cs" Line="63" Column="44" />
+      <File FileName="AcquaintDemo/Tests.cs" Line="46" Column="26" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AcquaintDemo" expanded="True">
+            <Node name="AcquaintDemo" expanded="True">
+              <Node name="AcquaintDemo" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

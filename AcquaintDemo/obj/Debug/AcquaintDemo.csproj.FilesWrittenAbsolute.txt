@@ -1,7 +1,7 @@
-/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/bin/Debug/AcquaintDemo.dll.mdb
-/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/bin/Debug/AcquaintDemo.dll
-/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/obj/Debug/AcquaintDemo.dll
-/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/obj/Debug/AcquaintDemo.dll.mdb
-/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/bin/Debug/nunit.framework.dll
-/Users/junecho/Projects/AcquaintDemo/AcquaintDemo/bin/Debug/Xamarin.UITest.dll
+/Users/junecho/Github/AcquaintDemo/AcquaintDemo/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/junecho/Github/AcquaintDemo/AcquaintDemo/bin/Debug/AcquaintDemo.dll.mdb
+/Users/junecho/Github/AcquaintDemo/AcquaintDemo/bin/Debug/AcquaintDemo.dll
+/Users/junecho/Github/AcquaintDemo/AcquaintDemo/obj/Debug/AcquaintDemo.dll
+/Users/junecho/Github/AcquaintDemo/AcquaintDemo/obj/Debug/AcquaintDemo.dll.mdb
+/Users/junecho/Github/AcquaintDemo/AcquaintDemo/bin/Debug/nunit.framework.dll
+/Users/junecho/Github/AcquaintDemo/AcquaintDemo/bin/Debug/Xamarin.UITest.dll
