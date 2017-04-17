@@ -5,14 +5,14 @@ This demo properly illustrates how to get started with Xamarin Test Cloud.
 I have included test code samples and a fully-working test script.
 
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
